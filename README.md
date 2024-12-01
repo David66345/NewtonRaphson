@@ -3,6 +3,7 @@
 
 - El sistema ingresa la ecuación, un punto de partida y una tolerancia.
 - La ecuación será bajo el esquema y esta deberá ser ingresada como dato.
+
   ![image](https://github.com/user-attachments/assets/307155f2-8af7-4bdd-b9ef-db5e32036ff0)
   
 - El orden de los monomios puede no estar ordenados.
